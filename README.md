@@ -21,7 +21,9 @@
 <img class="project-pic" src="https://media0.giphy.com/media/N4AIdLd0D2A9y/giphy.gif" style="width: 150px;" />
 <img class="project-pic" src="https://media1.giphy.com/media/FIZ1QC610AAhi/source.gif" style="width: 150px;" />
 <p></p>    
-<img class="project-pic" src="https://i.pinimg.com/originals/0e/b7/98/0eb79898902ebd45e7248bc7c20be53c.gif" style="width: 250px;" />
+<img class="project-pic" src="https://media1.tenor.com/images/daa698676aefb7e56e88ce98f85ca24c/tenor.gif?itemid=13763791" style="width: 150px;" />
+<img class="project-pic" src="https://i.pinimg.com/originals/16/23/00/162300857841c32bd046374839b5d93f.gif" style="width: 200px;" />
+<img class="project-pic" src="https://giphy.com/gifs/Id0IZ49MNMzKHI9qpV/html5" style="width: 200px;" />
     <p></p>
     <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
 <p> </p>
