@@ -20,6 +20,8 @@
 <img class="project-pic" src="https://acegif.com/wp-content/uploads/2020/07/anime-sleep.gif" style="width: 200px;" />
 <img class="project-pic" src="https://media0.giphy.com/media/N4AIdLd0D2A9y/giphy.gif" style="width: 150px;" />
 <img class="project-pic" src="https://media1.giphy.com/media/FIZ1QC610AAhi/source.gif" style="width: 150px;" />
+<p></p>    
+<img class="project-pic" src="https://i.pinimg.com/originals/0e/b7/98/0eb79898902ebd45e7248bc7c20be53c.gif" style="width: 250px;" />
     <p></p>
     <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
 <p> </p>
