@@ -5,14 +5,11 @@
     </head>
 
   <body>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
+
 <img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 150px;" />
 <img class="project-pic" src="https://www.cjoint.com/doc/19_07/IGlaldVKmeP_Omake-Gif-Anime---Kakegurui-XX---OP---Yumeko-Dances.gif" style="width: 200px;" />
 <img class="project-pic" src="https://media.tenor.com/images/046335a4c60d00bed9dda821412fc1de/tenor.gif" style="width: 200px;" />
