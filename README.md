@@ -15,12 +15,12 @@
 <img class="project-pic" src="https://media.tenor.com/images/046335a4c60d00bed9dda821412fc1de/tenor.gif" style="width: 200px;" />
 <p></p>
 <img class="project-pic" src="https://acegif.com/wp-content/uploads/2020/07/anime-sleep.gif" style="width: 200px;" />
-<img class="project-pic" src="https://media0.giphy.com/media/N4AIdLd0D2A9y/giphy.gif" style="width: 150px;" />
-<img class="project-pic" src="https://media1.giphy.com/media/FIZ1QC610AAhi/source.gif" style="width: 150px;" />
+<img class="project-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-nlSugDJ7sStB9TXKTXpXCGMEgB3_1NbzQ&usqp=CAU" style="width: 150px;" />
+<img class="project-pic" src="https://res.cloudinary.com/leetchi/image/upload/c_fill,f_auto,fl_lossy,g_center,h_520,q_80,w_715/v1581106178/bbd8560b-0381-4f4d-9f91-0febd804a579.gif" style="width: 150px;" />
 <p></p>    
 <img class="project-pic" src="https://media1.tenor.com/images/daa698676aefb7e56e88ce98f85ca24c/tenor.gif?itemid=13763791" style="width: 150px;" />
 <img class="project-pic" src="https://i.pinimg.com/originals/16/23/00/162300857841c32bd046374839b5d93f.gif" style="width: 200px;" />
-<img class="project-pic" src="https://media.giphy.com/media/Id0IZ49MNMzKHI9qpV/giphy.gif" style="width: 200px;" />
+<img class="project-pic" src="https://steamuserimages-a.akamaihd.net/ugc/923674991649543667/33E1047AE5A04AD80F7648017B809A7D13FA71AC/" style="width: 200px;" />
     <p></p>
     <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
 <p> </p>
